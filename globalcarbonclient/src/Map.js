@@ -3,6 +3,7 @@ import { Map, GoogleApiWrapper,Marker } from 'google-maps-react';
 
 class Mapcontainer extends Component {
   render(){
+    passprops=
     return(
       <Map
          google={this.props.google}
