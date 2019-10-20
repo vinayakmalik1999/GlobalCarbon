@@ -131,22 +131,22 @@ export default class Home extends Component {
         <Card.Body>
         <center class ="heading">
 
-                  Welcome to Global <b>Carbon</b>
+                  Welcome to <b>Global Carbon</b>
 
                    </center>
                    </Card.Body>
                     </Card>
     <Row>
     <Col xs={6}>
-
-                   <Button  className ='projectButton' variant="outline-secondary" size="lg" block>Count Your <b>Carbon</b></Button>
-
+ <Link to ='/Form'style ={{'font-size':'1.2rem',textDecoration: 'none',  color: '#fff'}} >
+                   <Button  className ='projectButton1' variant="outline-secondary" size="lg" block>Count Your <b>Carbons</b></Button>
+</Link>
     </Col>
     <Col xs={6} >
-
-                   <Button variant="outline-success" size="lg" block>  Global Carbon <b>Goal</b>
+ <Link to ='/Map'style ={{'font-size':'1.2rem',textDecoration: 'none',  color: '#fff'}} >
+                   <Button className ='projectButton2' variant="outline-success" size="lg" block>  Global Carbon <b>Goal</b>
                    </Button>
-
+</Link>
     </Col>
     </Row>
 

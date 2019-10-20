@@ -14,7 +14,12 @@ width:-webkit-fill-available;
      vertical-align: bottom;
 
 }
-
+.projectButton1{
+  animation: 1s ease-in 0s 1 slideInFromLeft;
+}
+.projectButton2{
+  animation: 1s ease-in 0s 1 slideInFromRight;
+}
 .button1{
   position: absolute;
   margin-top: -10px
@@ -29,6 +34,14 @@ width:-webkit-fill-available;
 @keyframes slideInFromLeft {
   from {
     transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+@keyframes slideInFromRight {
+  from {
+    transform: translateX(100%);
   }
   to {
     transform: translateX(0);
