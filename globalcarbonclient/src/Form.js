@@ -18,24 +18,57 @@ export default class New extends Component {
   constructor(props){
     super(props);
   this.state={
-    emailValue:'',
-    nameValue:'',
-    messageValue:'',
+    q1:{
+      1:"",
+      2:"",
+      3:"",
+    },
+    q2:{
+      1:"",
+      2:"",
+      3:"",
+    },
+    q3:{
+      1:"",
+      2:"",
+      3:"",
+    },
+    q4:{
+      1:"",
+      2:"",
+      3:"",
+    },
+    q5:{
+      1:"",
+      2:"",
+      3:"",
+    },
+    q6:{
+      1:"",
+      2:"",
+      3:"",
+    },
+    q7:{
+      1:"",
+      2:"",
+      3:"",
+    },
+
   }
-  this.handleNameChange = this.handleNameChange.bind(this);
-  this.handleEmailChange = this.handleEmailChange.bind(this);
-  this.handleMessageChange = this.handleMessageChange.bind(this);
+  this.handleq1Change = this.handleq1Change.bind(this);
+  this.handleq2Change = this.handleq2Change.bind(this);
+  this.handleq3Change = this.handleq3Change.bind(this);
   this.handleSubmit=this.handleSubmit.bind(this);
   }
-  handleNameChange(event){
+  handleq1Change(event){
 
-    this.setState({nameValue:event.target.value});
+    this.setState({q1:event.target.value});
 
   }
-  handleEmailChange(event){
+  handleq2Change(event){
       this.setState({emailValue:event.target.value});
   }
-  handleMessageChange(event){
+  handleq3Change(event){
     this.setState({messageValue:event.target.value});
 
   }
@@ -89,8 +122,30 @@ export default class New extends Component {
     <Form.Control type="email" placeholder="name@example.com"  value = {this.state.emailValue} onChange={this.handleEmailChange} required/>
   </Form.Group>
   <Form.Group controlId="exampleForm.ControlInput2">
-    <Form.Label>Name</Form.Label>
-    <Form.Control type='text'  placeholder='e.g. John Smith'  value = {this.state.nameValue} onChange={this.handleNameChange} required/>
+    <Form.Label>Means of transport</Form.Label>
+    <br/>
+  <Form.Label> Which statement is most accurate for you?</Form.Label>
+
+
+
+    <Form.Check
+          type="radio"
+          label="I almost always go by public transport, cycle or walk."
+          name="formHorizontalRadios"
+          id="formHorizontalRadios1"
+        />
+        <Form.Check
+          type="radio"
+          label="second radio"
+          name="formHorizontalRadios"
+          id="formHorizontalRadios2"
+        />
+        <Form.Check
+          type="radio"
+          label="third radio"
+          name="formHorizontalRadios"
+          id="formHorizontalRadios3"
+        />
   </Form.Group>
   <Form.Group controlId="exampleForm.ControlTextarea1">
     <Form.Label>Your Message</Form.Label>
@@ -103,6 +158,11 @@ export default class New extends Component {
 </ScrollAnimation>
 </Container>
 <br/>
+
+
+
+
+
 <Navbar className='BottomNavbar' style={{'background-color':'#000000'}}  variant="dark"  >
 <Navbar.Brand>
 <IconContext.Provider value={{ color: "#ffffff" }}>
