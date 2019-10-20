@@ -9,7 +9,7 @@ import {
 
 import Home from './Home'
 import New from './Form'
-import Map from './Map'
+import Mapcontainer from './Map'
 import Navbar from 'react-bootstrap/Navbar'
 import Nav from 'react-bootstrap/Nav'
 import { Offline } from 'react-detect-offline'
@@ -56,7 +56,7 @@ class App extends Component  {
 <Switch>
  <Route exact path="/" component={Home}/>
  <Route path="/Form" component={New}/>
-  <Route path ="/Map" component ={Map}/>
+  <Route path ="/Map" component ={Mapcontainer}/>
 
 </Switch>
 
