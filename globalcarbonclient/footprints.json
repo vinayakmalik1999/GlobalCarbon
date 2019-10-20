@@ -1,0 +1,584 @@
+[
+  {
+    "footprint": "20.54 tons/year",
+    "latitude": 47.6688,
+    "longitude": -86.6036
+  },
+  {
+    "footprint": "20.72 tons/year",
+    "latitude": 40.8187,
+    "longitude": -99.1397
+  },
+  {
+    "footprint": "10.98 tons/year",
+    "latitude": 30.5543,
+    "longitude": -118.5043
+  },
+  {
+    "footprint": "13.57 tons/year",
+    "latitude": 32.8947,
+    "longitude": -110.4146
+  },
+  {
+    "footprint": "22.32 tons/year",
+    "latitude": 39.5592,
+    "longitude": -108.66
+  },
+  {
+    "footprint": "7.67 tons/year",
+    "latitude": 38.0124,
+    "longitude": -90.2377
+  },
+  {
+    "footprint": "24.75 tons/year",
+    "latitude": 51.5033,
+    "longitude": -85.8538
+  },
+  {
+    "footprint": "10.13 tons/year",
+    "latitude": 37.4422,
+    "longitude": -80.5055
+  },
+  {
+    "footprint": "6.93 tons/year",
+    "latitude": 32.6577,
+    "longitude": -99.5777
+  },
+  {
+    "footprint": "18.10 tons/year",
+    "latitude": 40.2596,
+    "longitude": -83.4888
+  },
+  {
+    "footprint": "23.50 tons/year",
+    "latitude": 33.1337,
+    "longitude": -76.0974
+  },
+  {
+    "footprint": "23.59 tons/year",
+    "latitude": 46.709,
+    "longitude": -83.4788
+  },
+  {
+    "footprint": "13.19 tons/year",
+    "latitude": 37.9502,
+    "longitude": -120.8768
+  },
+  {
+    "footprint": "18.79 tons/year",
+    "latitude": 44.5775,
+    "longitude": -113.31
+  },
+  {
+    "footprint": "12.80 tons/year",
+    "latitude": 39.2854,
+    "longitude": -93.9045
+  },
+  {
+    "footprint": "14.73 tons/year",
+    "latitude": 31.1161,
+    "longitude": -89.2408
+  },
+  {
+    "footprint": "20.97 tons/year",
+    "latitude": 35.4704,
+    "longitude": -93.3246
+  },
+  {
+    "footprint": "10.37 tons/year",
+    "latitude": 45.168,
+    "longitude": -106.7707
+  },
+  {
+    "footprint": "19.97 tons/year",
+    "latitude": 35.4464,
+    "longitude": -102.2238
+  },
+  {
+    "footprint": "15.75 tons/year",
+    "latitude": 50.1982,
+    "longitude": -77.6995
+  },
+  {
+    "footprint": "9.73 tons/year",
+    "latitude": 41.7843,
+    "longitude": -110.1239
+  },
+  {
+    "footprint": "14.01 tons/year",
+    "latitude": 48.5225,
+    "longitude": -77.4872
+  },
+  {
+    "footprint": "15.65 tons/year",
+    "latitude": 51.62,
+    "longitude": -84.7425
+  },
+  {
+    "footprint": "12.73 tons/year",
+    "latitude": 41.7518,
+    "longitude": -95.8912
+  },
+  {
+    "footprint": "18.32 tons/year",
+    "latitude": 39.2218,
+    "longitude": -115.0665
+  },
+  {
+    "footprint": "10.99 tons/year",
+    "latitude": 38.0496,
+    "longitude": -117.6154
+  },
+  {
+    "footprint": "22.04 tons/year",
+    "latitude": 36.141,
+    "longitude": -118.6852
+  },
+  {
+    "footprint": "21.91 tons/year",
+    "latitude": 37.2413,
+    "longitude": -76.1579
+  },
+  {
+    "footprint": "9.30 tons/year",
+    "latitude": 51.8521,
+    "longitude": -110.1883
+  },
+  {
+    "footprint": "8.92 tons/year",
+    "latitude": 47.9954,
+    "longitude": -95.0193
+  },
+  {
+    "footprint": "19.52 tons/year",
+    "latitude": 51.861,
+    "longitude": -106.2089
+  },
+  {
+    "footprint": "6.08 tons/year",
+    "latitude": 49.7134,
+    "longitude": -116.9546
+  },
+  {
+    "footprint": "18.78 tons/year",
+    "latitude": 38.3764,
+    "longitude": -83.05
+  },
+  {
+    "footprint": "23.74 tons/year",
+    "latitude": 51.6091,
+    "longitude": -81.2256
+  },
+  {
+    "footprint": "6.03 tons/year",
+    "latitude": 40.6309,
+    "longitude": -88.7372
+  }
+  {
+    "footprint": "18.82 tons/year",
+    "latitude": 54.2784,
+    "longitude": 2.4235
+  },
+  {
+    "footprint": "13.08 tons/year",
+    "latitude": 31.1671,
+    "longitude": -0.9233
+  },
+  {
+    "footprint": "13.97 tons/year",
+    "latitude": 27.6417,
+    "longitude": 51.1024
+  },
+  {
+    "footprint": "24.78 tons/year",
+    "latitude": 14.1541,
+    "longitude": 0.194
+  },
+  {
+    "footprint": "9.31 tons/year",
+    "latitude": 24.826,
+    "longitude": 49.9248
+  },
+  {
+    "footprint": "21.72 tons/year",
+    "latitude": 46.8861,
+    "longitude": 2.3139
+  },
+  {
+    "footprint": "3.66 tons/year",
+    "latitude": 49.6329,
+    "longitude": 39.6103
+  },
+  {
+    "footprint": "22.65 tons/year",
+    "latitude": 49.0922,
+    "longitude": -12.4187
+  },
+  {
+    "footprint": "20.27 tons/year",
+    "latitude": 52.8304,
+    "longitude": -14.7487
+  },
+  {
+    "footprint": "7.47 tons/year",
+    "latitude": 31.8436,
+    "longitude": 50.3039
+  },
+  {
+    "footprint": "15.04 tons/year",
+    "latitude": 34.0768,
+    "longitude": 12.2818
+  },
+  {
+    "footprint": "17.04 tons/year",
+    "latitude": 38.3842,
+    "longitude": 52.1369
+  },
+  {
+    "footprint": "18.99 tons/year",
+    "latitude": 37.8828,
+    "longitude": 36.1074
+  },
+  {
+    "footprint": "21.85 tons/year",
+    "latitude": 42.9931,
+    "longitude": 31.2678
+  },
+  {
+    "footprint": "5.75 tons/year",
+    "latitude": 44.152,
+    "longitude": 21.6135
+  },
+  {
+    "footprint": "12.03 tons/year",
+    "latitude": 55.1013,
+    "longitude": 44.2011
+  },
+  {
+    "footprint": "2.09 tons/year",
+    "latitude": 28.9955,
+    "longitude": 48.6392
+  },
+  {
+    "footprint": "18.21 tons/year",
+    "latitude": 42.1361,
+    "longitude": 29.9301
+  },
+  {
+    "footprint": "7.31 tons/year",
+    "latitude": 15.1285,
+    "longitude": 35.2642
+  },
+  {
+    "footprint": "1.36 tons/year",
+    "latitude": 25.0742,
+    "longitude": 25.9025
+  },
+  {
+    "footprint": "14.10 tons/year",
+    "latitude": 47.5706,
+    "longitude": 23.2465
+  },
+  {
+    "footprint": "10.57 tons/year",
+    "latitude": 56.5889,
+    "longitude": 56.5371
+  },
+  {
+    "footprint": "12.28 tons/year",
+    "latitude": 45.9235,
+    "longitude": 35.9528
+  },
+  {
+    "footprint": "10.34 tons/year",
+    "latitude": 19.7102,
+    "longitude": 45.6014
+  },
+  {
+    "footprint": "15.33 tons/year",
+    "latitude": 52.1296,
+    "longitude": 32.4693
+  },
+  {
+    "footprint": "13.31 tons/year",
+    "latitude": 27.0939,
+    "longitude": -8.3486
+  },
+  {
+    "footprint": "8.97 tons/year",
+    "latitude": 48.2905,
+    "longitude": 39.6643
+  },
+  {
+    "footprint": "0.03 tons/year",
+    "latitude": 37.9182,
+    "longitude": 9.7472
+  },
+  {
+    "footprint": "24.83 tons/year",
+    "latitude": 22.6253,
+    "longitude": 46.5198
+  },
+  {
+    "footprint": "14.05 tons/year",
+    "latitude": 45.2155,
+    "longitude": 37.2413
+  },
+  {
+    "footprint": "1.11 tons/year",
+    "latitude": 38.86,
+    "longitude": -10.7415
+  },
+  {
+    "footprint": "5.79 tons/year",
+    "latitude": 33.456,
+    "longitude": 1.8437
+  },
+  {
+    "footprint": "7.16 tons/year",
+    "latitude": 19.1568,
+    "longitude": 30.6571
+  },
+  {
+    "footprint": "16.02 tons/year",
+    "latitude": 49.0782,
+    "longitude": 17.7584
+  },
+  {
+    "footprint": "11.35 tons/year",
+    "latitude": 24.9934,
+    "longitude": -15.9093
+  },
+  {
+    "footprint": "9.85 tons/year",
+    "latitude": 22.4156,
+    "longitude": 25.9902
+  },
+  {
+    "footprint": "8.08 tons/year",
+    "latitude": 24.6844,
+    "longitude": 36.7032
+  },
+  {
+    "footprint": "13.68 tons/year",
+    "latitude": 33.7144,
+    "longitude": -5.1674
+  },
+  {
+    "footprint": "23.56 tons/year",
+    "latitude": 33.1598,
+    "longitude": 23.9277
+  },
+  {
+    "footprint": "23.93 tons/year",
+    "latitude": 24.7377,
+    "longitude": -13.5031
+  }
+  {
+    "footprint": "16.74 tons/year",
+    "latitude": 43.2832,
+    "longitude": 95.5735
+  },
+  {
+    "footprint": "7.48 tons/year",
+    "latitude": 53.1579,
+    "longitude": 70.9127
+  },
+  {
+    "footprint": "5.31 tons/year",
+    "latitude": 55.0553,
+    "longitude": 56.872
+  },
+  {
+    "footprint": "17.00 tons/year",
+    "latitude": 60.16,
+    "longitude": 100.0967
+  },
+  {
+    "footprint": "13.63 tons/year",
+    "latitude": 59.0702,
+    "longitude": 87.9543
+  },
+  {
+    "footprint": "23.35 tons/year",
+    "latitude": 33.9863,
+    "longitude": 114.0191
+  },
+  {
+    "footprint": "5.40 tons/year",
+    "latitude": 52.0249,
+    "longitude": 80.9728
+  },
+  {
+    "footprint": "9.27 tons/year",
+    "latitude": 52.3409,
+    "longitude": 86.6073
+  },
+  {
+    "footprint": "17.90 tons/year",
+    "latitude": 58.109,
+    "longitude": 102.2445
+  },
+  {
+    "footprint": "20.61 tons/year",
+    "latitude": 40.8058,
+    "longitude": 111.0368
+  },
+  {
+    "footprint": "8.24 tons/year",
+    "latitude": 44.6437,
+    "longitude": 69.1244
+  },
+  {
+    "footprint": "15.66 tons/year",
+    "latitude": 32.4279,
+    "longitude": 77.6562
+  },
+  {
+    "footprint": "14.35 tons/year",
+    "latitude": 36.2868,
+    "longitude": 110.7097
+  },
+  {
+    "footprint": "11.22 tons/year",
+    "latitude": 38.0281,
+    "longitude": 112.1764
+  },
+  {
+    "footprint": "8.16 tons/year",
+    "latitude": 55.3323,
+    "longitude": 87.1355
+  },
+  {
+    "footprint": "20.23 tons/year",
+    "latitude": 57.5969,
+    "longitude": 72.6067
+  },
+  {
+    "footprint": "21.57 tons/year",
+    "latitude": 35.7253,
+    "longitude": 51.8182
+  },
+  {
+    "footprint": "8.07 tons/year",
+    "latitude": 41.7866,
+    "longitude": 69.4462
+  },
+  {
+    "footprint": "16.32 tons/year",
+    "latitude": 60.9923,
+    "longitude": 96.1683
+  },
+  {
+    "footprint": "7.09 tons/year",
+    "latitude": 32.4824,
+    "longitude": 86.8772
+  },
+  {
+    "footprint": "8.48 tons/year",
+    "latitude": 63.2108,
+    "longitude": 67.2388
+  },
+  {
+    "footprint": "17.03 tons/year",
+    "latitude": 39.2764,
+    "longitude": 69.5812
+  },
+  {
+    "footprint": "5.53 tons/year",
+    "latitude": 55.7197,
+    "longitude": 106.3978
+  },
+  {
+    "footprint": "4.69 tons/year",
+    "latitude": 57.2202,
+    "longitude": 94.6475
+  },
+  {
+    "footprint": "10.74 tons/year",
+    "latitude": 56.0212,
+    "longitude": 76.0936
+  },
+  {
+    "footprint": "15.11 tons/year",
+    "latitude": 56.3831,
+    "longitude": 71.6768
+  },
+  {
+    "footprint": "16.29 tons/year",
+    "latitude": 32.3252,
+    "longitude": 50.6559
+  },
+  {
+    "footprint": "21.86 tons/year",
+    "latitude": 64.9088,
+    "longitude": 91.8508
+  },
+  {
+    "footprint": "12.22 tons/year",
+    "latitude": 52.9149,
+    "longitude": 90.1896
+  },
+  {
+    "footprint": "13.42 tons/year",
+    "latitude": 25.7511,
+    "longitude": 77.1758
+  },
+  {
+    "footprint": "18.19 tons/year",
+    "latitude": 45.4084,
+    "longitude": 100.9248
+  },
+  {
+    "footprint": "12.18 tons/year",
+    "latitude": 61.3453,
+    "longitude": 88.1172
+  },
+  {
+    "footprint": "11.05 tons/year",
+    "latitude": 29.5247,
+    "longitude": 99.424
+  },
+  {
+    "footprint": "7.02 tons/year",
+    "latitude": 51.0684,
+    "longitude": 100.4453
+  },
+  {
+    "footprint": "8.05 tons/year",
+    "latitude": 54.256,
+    "longitude": 69.9158
+  }
+  {
+    "footprint": "6.20 tons/year",
+    "latitude": 36,
+    "longitude": 148
+  },
+  {
+    "footprint": "8.33 tons/year",
+    "latitude": 36,
+    "longitude": 148
+  },
+  {
+    "footprint": "21.49 tons/year",
+    "latitude": 18.24,
+    "longitude": 77.3934
+  },
+  {
+    "footprint": "11.53 tons/year",
+    "latitude": 18.5378,
+    "longitude": 77.0463
+  },
+  {
+    "footprint": "8.03 tons/year",
+    "latitude": 17.2995,
+    "longitude": 77.6587
+  },
+  {
+    "footprint": "8.58 tons/year",
+    "latitude": 17.7643,
+    "longitude": 79.8964
+  },
+
+
+]
