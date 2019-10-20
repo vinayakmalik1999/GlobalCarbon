@@ -5,9 +5,15 @@
 .App-logo {
   height: 40vmin;
 }
+body{
+  background-color: #121212;
+}
+.heading{
+  font-size: 3em;
+}
 
 .App-header {
-  background-color: #282c34;
+
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -19,4 +25,7 @@
 
 .App-link {
   color: #09d3ac;
+}
+.introCard{
+  border: hidden;
 }

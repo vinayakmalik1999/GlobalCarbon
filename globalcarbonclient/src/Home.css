@@ -1,0 +1,71 @@
+canvas{
+
+  margin: 0px;
+  border: 0;
+     overflow: hidden; /*  Disable scrollbars */
+     display: block;
+
+     height: -moz-max-content;
+
+height:-webkit-fill-available;
+width: 100%;
+
+width:-webkit-fill-available;
+     vertical-align: bottom;
+
+}
+
+.button1{
+  position: absolute;
+  margin-top: -10px
+}
+.introCard{
+  position: absolute;
+  margin-top: -35rem;
+  background-color: transparent;
+  animation: 1.5s ease-in 0s 1 fadeInOpacity;
+  font-size: 1rem;
+}
+@keyframes slideInFromLeft {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+@keyframes fadeInOpacity {
+  0%{
+     opacity:0;
+  }
+  100%{
+    opacity:1;
+  }
+}
+.name{
+font-weight: 700;
+
+}
+
+@media screen and (max-height:700px){
+  .introCard{
+    margin-top: -30rem;
+
+  }
+}
+
+@media screen and (min-width: 768px) {
+.introCard{
+  font-size: 1.5em;
+}
+}
+@media screen and (min-width: 1050px) {
+.introCard{
+  font-size: 1.9em;
+}
+}
+@media screen and (max-width: 1050px) {
+  .projectButton{
+
+  }
+}
