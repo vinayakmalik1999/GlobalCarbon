@@ -24,6 +24,7 @@ class App extends Component  {
 
   render(){
   return (
+<<<<<<< HEAD
     <div>
 <Router>
     <Navbar className='topNavbar' style={{'background-color':'#000000'}}collapseOnSelect variant="dark" fixed ='top' expand="md">
@@ -60,6 +61,24 @@ class App extends Component  {
 </Router>
 </div>
 
+=======
+    <div className="App">
+      <header className="App-header">
+        <img src={logo} className="App-logo" alt="logo" />
+        <p>
+          Edit <code>src/App.js</code> and save to reload.
+        </p>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener"
+        >
+          Learn React
+        </a>
+      </header>
+    </div>
+>>>>>>> 44b04aeee2bc926e381a2a47466b0d17ea7665e5
   );
 }
 }
