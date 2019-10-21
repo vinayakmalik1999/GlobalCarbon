@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import GoogleMapReact from 'google-map-react';
 import Marker from './Marker'
-
+import axios from 'axios'
 class SimpleMap extends Component  {
   constructor(props){
     super(props)
@@ -14,16 +14,36 @@ class SimpleMap extends Component  {
               {latitude: 47.2052192687988, longitude: -121.988426208496},
               {latitude: 47.6307081, longitude: -122.1434325},
               {latitude: 47.3084488, longitude: -122.2140121},
-              {latitude: 47.5524695, longitude: -122.0425407}],
-      zoom:10
+              {latitude: 47.5524695, longitude: -122.0425407},
+              {latitude: 43.075690, longitude: -89.402243}],
+        store:"",
+      zoom:4
 
     }
   }
+  componentDidMount() {
+    axios.get('http://localhost:3001/api/getData'
+)
+    .then(response => {
+
+      this.setState({
+        store:response.data,
+
+      })
+
+      console.log(this.state.store)
+
+    })
+    .catch(error => {
+      console.log(error);
+
+    });
+  }
   displayMarkers = () => {
-    return this.state.stores.map((store, index) => {
+    return this.state.stores.map((box, index) => {
       return <Marker key={index} id={index}
-       lat= {store.latitude}
-       lng= {store.longitude}
+       lat= {box.latitude}
+       lng= {box.longitude}
          text="My Marker"
            color = "black"
 
